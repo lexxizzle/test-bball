@@ -1,0 +1,56 @@
+﻿@font-face {
+    font-display: block;
+    font-family: abuse;
+    src: url('fonts/abuse.ttf');
+}
+
+@font-face {
+    font-display: block;
+    font-family: segwickave;
+    src: url('fonts/SedgwickAve-Regular.ttf');
+}
+
+@font-face {
+    font-display: block;
+    font-family: jacktra;
+    src: url('fonts/THE_JACATRA.otf');
+}
+
+.abuse {
+    display: inline-block;
+    font-family: abuse !important;
+    font-size: 2rem;
+    vertical-align: -.125em;
+}
+
+.segwickave {
+    font-family: segwickave !important;
+    display: inline-block;
+    font-size: 2rem;
+    vertical-align: -.125em;
+}
+
+.jacktra {
+    font-family: jacktra !important;
+    display: inline-block;
+    font-size: 2rem;
+    vertical-align: -.125em;
+}
+
+.commune {
+    margin: auto;
+    padding-left: 15px;
+    font-weight: bolder;
+    color: white;
+    font-size: 1.7rem;
+}
+
+.commune-dark {
+    margin: auto;
+    padding-left: 15px;
+    font-weight: bolder;
+    color: white;
+    font-size: 1.7rem;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+}

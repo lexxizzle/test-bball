@@ -1,0 +1,11 @@
+﻿.admin-form {
+    background: white;
+    border-radius: 12px;
+    padding: 1.5rem;
+}
+
+.btn-add {
+    margin-left: auto;
+    margin-right: 0;
+}
+
